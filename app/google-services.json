@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "247830015836",
+    "firebase_url": "https://hungtrquoc-quick-notes.firebaseio.com",
+    "project_id": "hungtrquoc-quick-notes",
+    "storage_bucket": "hungtrquoc-quick-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247830015836:android:b87490e0fc46feba",
+        "android_client_info": {
+          "package_name": "apps.hungtrquoc.quicknotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247830015836-qkgnu01rummfrunekko1bn5l6qutjome.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.hungtrquoc.quicknotes",
+            "certificate_hash": "86f4ea8decd6bf1b8441b231cbe13a2235fc03e0"
+          }
+        },
+        {
+          "client_id": "247830015836-pfun0q51ls2jfd2bmveh7ctd080l5pkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH2r41O8TEGPi7Pl6pmvIT7NCoZl2-_uQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247830015836-pfun0q51ls2jfd2bmveh7ctd080l5pkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
